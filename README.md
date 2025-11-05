@@ -35,7 +35,3 @@ A tecnologia tem um papel crucial na promoção da saúde e no combate ao sedent
 - **PowerBI**: Para uso pessoal.
 - **APIs de wearables**: Integração com dispositivos como Strava.
 
-## Como Executar o Projeto
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/ketlynathan/TCC-24.git
